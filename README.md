@@ -1,7 +1,7 @@
 
-# Projeto Anima
+# Projeto Econverse
 
-Bem-vindo! Este projeto foi gerado automaticamente pelo [Anima](https://animaapp.com/).
+Bem vindo ao meu projeto beta.
 
 ## Começando
 
