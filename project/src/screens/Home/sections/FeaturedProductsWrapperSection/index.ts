@@ -1,0 +1,1 @@
+export { FeaturedProductsWrapperSection } from "./FeaturedProductsWrapperSection";
